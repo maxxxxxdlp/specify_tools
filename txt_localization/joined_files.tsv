@@ -751,7 +751,7 @@ FILE_NO_WRITE	There is a problem writing to file `%s`,\nthe path may be invalid 
 
 AttachmentUtils.ANF_TITLE	Not Found	Не обнаружено
 AttachmentUtils.ANF	<html>The attachment could not be located in the repository.<br>The repository location:<br> '%s' may be in error.	<html>Вложение не может быть найдено в репозитории.<br>Расположение репозитория:<br>'%s' может быть ошибочным.
-AttachmentUtils.LOC_BAD	The directory path to the Attachment Manager directory is not available or is incorrect.\nYou should check the path in the Specify 'Attachment' preferences.	Путь к каталогу Диспетчера Приложений недоступен или является неправильным.\nПроверьте путь в окне 'Приложения' меню Настроек. 
+AttachmentUtils.LOC_BAD	The directory path to the Attachment Manager directory is not available or is incorrect.\nYou should check the path in the Specify 'Attachment' preferences.	Путь к каталогу Диспетчера Приложений недоступен или является неправильным.\nПроверьте путь в окне 'Приложения' меню Настроек.
 AttachmentUtils.URL_BAD	The URL configured for the Attachment Web Server is not valid or the service is not available.\nYou should check the path in the Specify 'Attachment' preferences.	URL-адрес, настроенный для Веб-сервера Приложений, недопустим или служба недоступна.\nПроверьте путь в окне 'Приложения' меню Настроек.
 AttachmentUtils.KEY_BAD	The key configured for the Attachment Web Server is not valid or the service is not available.\nYou should check the key in the Specify 'Attachment' preferences.	Ключ, настроенный для Веб-сервера Приложений, недопустим или служба недоступна.\nПроверьте путь в окне 'Приложения' меню настроек.
 AttachmentUtils.NOT_AVAIL	The Attachment Manager is not available and may need to be configured.\nYou should check the path in the Specify preferences.	Диспетчер приложений недоступен и требует настройки. \nПроверьте путь в окне 'Приложения' меню настроек.
@@ -1235,7 +1235,7 @@ NO_SPC_USRNAME	The username cannot start with a number or have space or comma.	�
 NO_SPC_PWDNAME	The password cannot start with a number or have space or comma.	Пароль не может содержать пробел или запятую.
 NO_SPC_DBNAME	The database cannot have space or comma.	База данных не может содержать пробел или запятую.
 
-MISSING_PRIV	Specify's Master username/password doesn't have the required privileges to access this database.\nThis can be fixed if you know the IT username and password.	Имя/пароль главного пользователя Specify не имеет необходимых прав доступа к базе данных.\nЭто можно исправить, если вы знаете имя  и пароль IT-пользователя. 
+MISSING_PRIV	Specify's Master username/password doesn't have the required privileges to access this database.\nThis can be fixed if you know the IT username and password.	Имя/пароль главного пользователя Specify не имеет необходимых прав доступа к базе данных.\nЭто можно исправить, если вы знаете имя  и пароль IT-пользователя.
 MISSING_PRIV_FIX	Fix	Исправить
 MISSING_PRIV_TITLE	Privilege Issue	Проблема Прав доступа
 MISSING_PRIV_NO_LOGIN	Unable to login with IT U/P	Невозможно войти через IT имя/пароль
@@ -3818,7 +3818,7 @@ SymbiotaPane.OverallStatusLbl	Status	Статус
 SymbiotaPane.PushToSymFailed	Send to Symbiota failed. The web service response was: %s	Не удалось отправить в Symbiota. Ответ веб-службы: %s
 SymbiotaPane.BuildingDwcArchive	Creating DarwinCore archive	Создание архива DarwinCore
 SymbiotaPane.SendSuccessDlgTitle	Success	Успешно
-SymbiotaPane.SendSuccess	The connector was successfully pushed to Symbiota.\n%s records were added or updated.	Подключение было успешно отправлено в Symbiota. \n%s записи были добавлены или обновлены. 
+SymbiotaPane.SendSuccess	The connector was successfully pushed to Symbiota.\n%s records were added or updated.	Подключение было успешно отправлено в Symbiota. \n%s записи были добавлены или обновлены.
 SymbiotaPane.ArchiveFileCreated	The archive %s was created successfully.	Архив %s был успешно создан.
 SymbiotaPane.ConfirmSend	Push All?	Отправить все?
 SymbiotaPane.ConfirmSendAllWhenNoneToSend	The Symbiota connector appears to be up to date, and no changes need to be pushed. Would you like to push ALL records?	Соединение с Symbiota обновлено и нет необходимости вносить изменения. Хотите отправить все записи?
@@ -4567,7 +4567,7 @@ Formatter	Formatter	Форматировщик
 PATTERN	Pattern	Шаблон
 IS_AUTO_INC	Is Auto Incremented	Авто-инкрементирование
 
-CREATE_DB	Create Specify Database	Создать базу данных Specify 
+CREATE_DB	Create Specify Database	Создать базу данных Specify
 CONN_DB	Connecting to the DBMS...	Подключение к СУБД...
 DB_CREATED	The Specify Database was created.	База данных Specify была создана.
 ERR_CRE_DB	There was an error creating the database.	При создании базы данных произошла ошибка.
@@ -4683,4 +4683,3 @@ Site	Site	Место
 
 SEC_EML_TITLE	User Only Change	Изменение пользователем
 SEC_EML_MSG	The email address in the user record has changed,\nbut not in the agent record.	Адрес электронной почты изменился в записи пользователя,\n но не в записи агента
-

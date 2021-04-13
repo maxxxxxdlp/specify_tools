@@ -1,5 +1,5 @@
 Field Name	en	ru
-		
+
 URL	Web Service URL	URL веб-службы
 MASTER_TITLE	Master Username/Password	Имя пользователя/Пароль мастер пользователя
 ENCRYPTED_USRPWD	Encrypted Username/Password	Зашифрованное Имя пользователя/Пароль
@@ -12,33 +12,33 @@ BACK	Go Back	Назад
 OK	OK	Ок
 CANCEL	Cancel	Отмена
 HELP	Help	Справка
-		
+
 CPY_TO_CB_TT	Copy Key to Clipboard	Копировать ключ в буфер обмена
 CPY_FROM_CB_TT	Paste key from Clipboard	Вставить ключ из буфера обмена
-		
+
 MASTER_LOC	Master Source	Источник Мастер-Ключа
 MASTER_SEP	Master Username and Password	Имя/Пароль Мастер пользователя
 USER_SEP	User's Username and Password	Имя пользователя и пароль
 USERNAME	Username	Имя пользователя
 PASSWORD	Password	Пароль
 MASTER_NO_ROOT	You cannot use 'root' as your Master username.	Вы не можете использовать 'root' в качестве имени Мастер пользователя.
-		
-		
+
+
 MISSING_CREDS	The username '%s' is missing the necessary credentials.\nWould you like to create them?	Имя Пользователя `%s` не имеет необходимых прав. \nХотите их создать?
 MISSING_CREDS_TITLE	Missing Credentials	Недостающие права
-		
+
 ENCRYPTION_KEY	Encryption Key	Ключ шифрования
 GENERATE_KEY	Generate	Генерировать
 MASTER_INFO_TITLE	Enter Master Information	Введите Мастер-информацию
 SHOW_PASSWORD	Show Passwords	Показать пароли
 HIDE_PASSWORD	Hide Passwords	Скрыть пароли
-		
+
 FILE_NOT_CREATED	The Master Key file could not be created at `%s`	Файл мастер-ключа не может быть создан в `%s`
 FILE_CREATED_AT	The Master Key file was created at `%s`	Файл мастер-ключа был создан в `%s`
-		
-########################		
-# Change Password		
-########################		
+
+########################
+# Change Password
+########################
 PWD_ERR_SAVE	There was an error saving the password to your user record.	При сохранении пароля в записи пользователя произошла ошибка
 PWD_ERR_RTRV	Your password was not correct.	Пароль неверен
 PWD_ERR_BAD	Your password was not correct.	Пароль неверен

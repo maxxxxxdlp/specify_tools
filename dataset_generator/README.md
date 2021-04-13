@@ -1,11 +1,14 @@
 # file_gen.php
+
 This script generates `.csv` files full of data according to different parameters
 
 The script accepts the following GET parameters:
-   - count //how many lines to generate (excluding the header)
-   - to_file - // if set to 1, the script will prompt the browser to download the resulting file. if set to 0, the result will be shown as plain text
+
+- count //how many lines to generate (excluding the header)
+- to_file - // if set to 1, the script will prompt the browser to download the resulting file. if set to 0, the result will be shown as plain text
 
 Also, there are following options inside the file:
+
 ```php
 $FILE_NAME = $count.'_localities.csv'; //file naming format. default will look like 7000_localities.csv, if the $count is 7000
 $cols = 5; //how many columns there are
@@ -15,6 +18,7 @@ $default_value = 1;
 ```
 
 There also is a support for predefined rules:
+
 ```php
 //[func_name,[param1,param2,...] // you can create and call your own functions
 //'static_val' // static value for all cells of that column

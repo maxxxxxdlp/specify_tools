@@ -44,11 +44,11 @@ $github_username = Tokens::get('github_username');
 
 
 		echo '<form>
-		
+
 			<label class="form-group">
-		
+
 				Repository: <br>
-		
+
 				<select class="form-control" name="repository">';
 
 					foreach($repos_array as $repo){
@@ -62,11 +62,11 @@ $github_username = Tokens::get('github_username');
 					}
 
 				echo '</select>
-		
+
 			</label><br><br>
-		
+
 			<input type="submit" value="Select Repository" class="btn btn-primary"><br><br>
-		
+
 		</form>';
 
 		if($_GET['repository']=='')

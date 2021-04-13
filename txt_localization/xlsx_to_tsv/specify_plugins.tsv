@@ -1,5 +1,5 @@
 Field Name	en	ru
-# TaxonLabelFormatter Plugin		
+# TaxonLabelFormatter Plugin
 NewAgent	New Agent	Новое лицо
 Authors	Authors	Авторы
 SampleOutput	Sample Output	Пример результата
@@ -7,8 +7,8 @@ LabelFormat	Label Format	Формат этикетки
 ReferenceWork	Reference Work	Библиография
 None	None	Никто
 Search	Search	Поиск
-		
-# Lat/Lon Plugin		
+
+# Lat/Lon Plugin
 LatLonUI	Latitude / Longitude	Широта / Долгота
 DDD.DDD	Decimal Degrees	Десятичные градусы
 DD_MM.MM	Degrees Decimal Minutes	Градусы десятичные минуты
@@ -19,7 +19,7 @@ Rect	Rectangle	Прямоугольник
 PointTT	Single Lat/Lon Point	Точка широты / долготы
 LineTT	Two Lat/Lon points representing a line	Две точки широты и долготы, представляющие линию
 RectTT	Two Lat/Lon points representing a rectangle (upper left and lower right)	Две точки широты и долготы, представляющие прямоугольник (вверху слева и внизу справа)
-		
+
 Latitude	Latitude	Широта
 Longitude	Longitude	Долгота
 LAT1	Latitude 1	Широта 1
@@ -38,35 +38,35 @@ LatLonUI.LATDEF_DIR	Default to Latitude North	По умолчанию для с�
 LatLonUI.LONDEF_DIR	Default to Longitude West	По умолчанию Северна Широта
 LatLonUI.DEF_TYP	Default Type	По умолчанию Западная Долгота
 LatLonUI.DEF_FMT	Default Format	Формат по умолчанию
-		
+
 ADD_AUTHOR_NAME_TT	Add Author Name	Добавить имя автора
 REMOVE_AUTHOR_NAME_TT	Remove Author Name	Удалить имя автора
 MOVE_AUTHOR_NAME_UP	Move the author name up in the list	Переместить имя автора вверх в списке
 MOVE_AUTHOR_NAME_DOWN	Move the author name down in the list	Переместить имя автора вниз по списку
-		
-# PasswordStrengthUI		
+
+# PasswordStrengthUI
 PasswordStrengthUI.VERY_WEAK	Very Weak	Очень слабый
 PasswordStrengthUI.WEAK	Weak	Слабый
 PasswordStrengthUI.MEDIOCRE	Mediocre	Средний
 PasswordStrengthUI.STRONG	Strong	Сильный
 PasswordStrengthUI.VERY_STRONG	Very Strong	Очень сильный
-		
+
 PasswordStrengthUI.PWD_MIN_LENGTH	Meets minimum length	Соответствует минимальной длине
 PasswordStrengthUI.PWD_NUMERIC	Number character	Числа
 PasswordStrengthUI.PWD_MIXED_CASE	Mixed case	Смешанный регистр
 PasswordStrengthUI.PWD_SPECIAL	Special character	Специальные символы
-		
-# PartialDateUI		
+
+# PartialDateUI
 PartialDateUI	Partial Date	Частичная дата
-		
+
 HostTaxonPlugin.ERR_CLICK	Click For Error	Нажмите если ошибка
 HostTaxonPlugin.ERR_BAD_NM	For the relationship `%s` the left side (or primary) collection must match the current collection `%s`	Для отношения `%s` основная коллекция должна соответствовать текущей коллекции `%s`
 HostTaxonPlugin.ERR	There was an exception while trying to configure the plugin	Произошла ошибка при попытке настроить плагин
 HostTaxonPlugin.ERR_MSG_RSC	There is no Collection for the relname `%s`	Нет коллекции для настоящего имени `%s`
 HostTaxonPlugin.ERR_MSG_RSD	There is no Discipline for the relname `%s`	Там нет дисциплины для настоящего имени `%s`
 HostTaxonPlugin.ERR_MSG_REL_EMPTY	The parameter `relname` is empty and can't be.	Параметр `настоящее имя` пуст и не может быть использован.
-		
-# SGR		
+
+# SGR
 SGR_NO_RESULTS_MLT	There are no results for the selected rows.	Нет результатов по выбранным строкам.
 SGR_NO_RESULTS	There are no results for `%s`, `%s`, `%s`.	Нет результатов для `%s`, `%s`, `%s`.
 SGRResultsChooser.TITLE	Scatter, Gather, Reconcile: Results Chooser - %d of %d	Рассеивать, Собирать, Согласовать: Выбор результатов - %d из %d
@@ -106,16 +106,16 @@ SGR_EXCLUDE	Exclude	Исключать
 SGR_INST_CODE	Institution Code	Код учреждения
 SGR_COLL_CODE	Collection Code	Код коллекции
 SGR_SIMILARITY	Match Criteria	Критерии соответствия
-		
-# ContainersColObjPlugin		
+
+# ContainersColObjPlugin
 CNTR_CO_INUSE	The Collection Object with Catalog Number '%s' is already being used by a container.	Объект коллекции с каталожным номером '%s' уже используется контейнером
-		
-#ContainerPlugin		
+
+#ContainerPlugin
 PARENT_CONTAINER	This Collection Object belongs to Container:	Этот объект коллекции принадлежит контейнеру:
 CONTAINER	This Collection Object is the Container:	Этот объект коллекции является контейнером:
 ASSOC_CONTR_INUSE	The container '%s' is already used by Collection Object '%s'	Контейнер '%s' уже используется объектом коллекции '%s'
-		
-#MorphBankPanel		
+
+#MorphBankPanel
 MorphBankPanel.DetailsBtn	i	i
 MorphBankPanel.ViewMBBtn	mb	mb
 MorphBankPanel.PutBtn	Send	Отправить

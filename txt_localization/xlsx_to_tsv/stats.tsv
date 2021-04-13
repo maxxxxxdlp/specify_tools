@@ -1,10 +1,10 @@
 Field Name	en	ru
-		
+
 TOP5	Top 5 Species	Топ 5 видов
 LAST10	Cataloged Last 10 Years	Каталогизировано за последние 10 лет
 BYCTRY	Specimens by Country	Образцов из стран
-		
-# tool tips		
+
+# tool tips
 NUMSPECIES	Number of Specimens.	Количество образцов
 TOP5_TT	Shows a pie chart of the top five species cataloged.	Показывает круговую диаграмму пяти ведущих видов.
 TOP5_CHRT_TT	Shows a bar chart of the top 5 species cataloged.	Показывает гистограмму пяти ведущих каталогизированных видов.
@@ -24,32 +24,32 @@ PERMIT_EXP_YR_TT	Shows a list of permits that are expiring	Показывает 
 CITES_EXP_TR_TT	Shows a list of CITES permits that are expiring this Year	Показывает список разрешений CITES, срок действия которых истекает в этом году
 NONCITES_EXP_TR_TT	Shows a list of Non-CITES permits that are expiring this Year	Показывает список других разрешений, срок действия которых истекает в этом году
 WB_DS	WorkBench Data Sets	Наборы данных WorkBench
-		
+
 ITEMS_LAST10YR	Items Cataloged Last 10 Years	Образцы, каталогизированные за последние 10 лет
 YRS	Years	Лет
-		
+
 TMP_PERIODS	Temporial Periods	Временные периоды
 PRCNT_GRWTH_5YR	Percentage Grow Last 5 Years	Процент роста за последние 5 лет
 PRCT	Percentage	Процент
-		
+
 TOP7_SPEC_CNTY	Top 7 Number of Specimens by Country	Топ 7 образцов по странам
 TOP10_SPEC_CNT	Top 10 Number of Specimens by Continent	Топ 10 образцов по континентам
-		
+
 ITMS_LOAN	Items on Loan	Предметы в заеме
 OVRDUE_LOANS	Overdue Loans	Просроченные заемы
 LOAN_OVERDUE	Loan Overdue	Просроченный заем
 OPEN_LOANS	Open Loans	Открытые заемы
-		
-		
+
+
 CAT_LAST_7DAYS	Cataloged Last 7 Days	Каталогизировано за последние 7 дней
 CAT_LAST_30DAYS	Cataloged Last 30 Days	Каталогизировано за последние 30 дней
 CAT_LAST_YR	Cataloged Last Year	Каталогизировано в прошлом году
-		
+
 TOP5_ACC_DIV	Top 5 Accessions By Division	Топ 5 образцов по отделам
 PERMIT_EXP_YR	Permits Expiring This Year	Разрешения истекают в этом году
 CITES_EXP_TR	CITES Permits Expiring This Year	Разрешения CITES, которые истекают в этом году
 NONCITES_EXP_TR	Non-CITES Permits Expiring This Year	Другие разрешения, которые истекают в этом году
-		
+
 HOLDINGS	Holdings	Хранения
 DAT_ENT	Data Entry	Ввод данных
 LOANS	Loans	Заемы
@@ -58,13 +58,13 @@ TAX_TREE	Taxonomic Tree	Таксономическое дерево
 TAXON	Taxon	Таксон
 COUNT	Count	Количество
 LOCS	Localities	Местонахождения
-		
+
 SPECIMENS	Specimens	Образцы
 TYP_SPEC	Type Specimens	Тип образцов
 UNQ_FAM	Families Represented	Представлено семейств
 UNQ_GEN	Genera Represented	Представлено родов
 UNQ_SPEC	Species Represented	Представлено видов
-		
+
 GEO_ENT	Geography Entries	Географические записи
 COUNTRIES	Countries	Страны
 PRCNT_GEOREF	Percentage Georeferenced	Процент образцов с геопривязкой
@@ -75,19 +75,19 @@ FAMS	Families	Семейства
 GENERA	Genera	Роды
 TYP_SPEC_CNT	Type Specimen Counts	Количество типовых образцов
 SPECIES	Species	Виды
-		
+
 NO_TYP_SPEC	No Type Specimens	Нетиповые образцы
-		
+
 NUM_PREPS_PER_PREPS	Preparations Per Prep Type	Препаратов по типам
 NO_NUM_PREPS_PER_PREPS	No Preparations Types	Препараты без типа
 PREPTYPE	Prep Type	Тип препарата
-		
+
 PREPS_PT_SP	Preparations by Prep Type-Species	Препаратов по типам и видам
 NO_PREPS_PT_SP	No Preparations by Prep Type-Species	Нет препаратов по типам и видам
 PREP_BY_TYPE	Preparations by Type	Препаратов по типам
 PREP_BY_TYPE_LOTS	Preparations by Type: Lots/Total	Препаратов по типам: Лотки/Всего
 PREPS	Preparations	Препараты
 LOTS_TOTAL	Lots/Total	Лотки/Всего
-		
+
 ATTACHMENT_BY_TBL	Attachments by Data Type	Приложения по типу данных
 ATT_TBL	Data Type	Тип данных

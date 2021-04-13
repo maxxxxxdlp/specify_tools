@@ -1,23 +1,23 @@
 Field Name	en	ru
-#################################################		
-# Discipline		
-#################################################		
+#################################################
+# Discipline
+#################################################
 CollectingEvent	Collecting Event	Cобытие сбора
 CollectionObject	Collection Object	Объект коллекции
-		
-#################################################		
-# Common		
-#################################################		
+
+#################################################
+# Common
+#################################################
 Appraisal	Appraisal	Оценка
 CollectingTrip	Collecting Trip	Экспедиция
 ConservDescription	Conserv Description	Описание консервации
 Deaccession	Deaccession	Списание
 FieldNotebook	Field Notebook	Полевой дневник
 Project	Project	Проект
-		
-#################################################		
-# Global		
-#################################################		
+
+#################################################
+# Global
+#################################################
 Agent	Agent	Агент
 Permit	Permit	Разрешение
 Locality	Locality	Местонахождение
@@ -28,9 +28,9 @@ Geography	Geography	География
 Storage	Storage	Место хранения
 GeologicTimePeriod	Chronos	Хронос
 LithoStrat	Litho Stratigraphy	Литостратиграфия
-		
-#################################################		
-# Preparation Form		
-#################################################		
+
+#################################################
+# Preparation Form
+#################################################
 IS_ON_LOAN	Is On Loan	В заеме
 SHOW_INTERACTIONS	Show Interactions	Показать транзакции

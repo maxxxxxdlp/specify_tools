@@ -1,7 +1,7 @@
 Field Name	en	ru
-####################		
-# Fields		
-####################		
+####################
+# Fields
+####################
 TaxonName	Taxon Name	Название таксона
 Geography	Geography	География
 Determiner	Determiner	Определил
@@ -14,10 +14,10 @@ OtherOldTaxonName	Other Name	Другие названия
 GeoCategory	Category	Категория географии
 StorageName	Storage	Место хранения
 Name	Name	Название
-		
-####################		
-# Fields  Description		
-####################		
+
+####################
+# Fields  Description
+####################
 TaxonName_desc	The taxon Name	Название таксона
 Geography_desc	The geography name	Название географии
 Determiner_desc	The person who determined it	Определил
@@ -31,10 +31,10 @@ GeoCategory_desc	Category of the geography	Категория географии
 LocationName_desc	The location of the object	Размещение объекта
 Name_desc	The name of the object	Название объекта
 StorageName_desc	Storage name	Название места хранения
-		
-####################		
-# Express Search Titles		
-####################		
+
+####################
+# Express Search Titles
+####################
 CollObjToDeterminer	Taxon CollectionObject	Таксон Объект коллекции
 CollObToLocality	Collecting Event Locality	Местонахождение Событие сбора
 CollObject	Collection Object Taxon	Объект коллекции Таксон
@@ -42,7 +42,7 @@ GeoToTaxon	Taxon Geography	Таксон География
 ColObjCollectors	Collection Object Collectors	Объект коллекции Коллекторы
 AcceptedTaxon	Taxon Preferred Taxon	Таксон Принятый таксон
 SynonymCollObjs	Collection Object Preferred Taxon	Объект коллекции Принятый таксон
-#AcceptedNameCollObjs=Accepted Name for Collection Object		
+#AcceptedNameCollObjs=Accepted Name for Collection Object
 OtherSynsCollObjs	Collection Object Taxon (all synonyms)	Объект коллекции Таксон (все синонимы)
 CurrCollObject	Collection Object Taxon (determined)	Объект коллекции Таксон (идентифицирован)
 AgentFromAgentVariant	Agent Agent Variant	Агент Вариант агента
@@ -95,10 +95,10 @@ ContainerToKids	Container Collection Object Children	Контейнер Объе
 ContainerToContainerKids	Container Container Children	Контейнер Дочерние элементы
 ExchangeInCO	Collection Object Exchange In	Объект коллекции Внутренний обмен
 ExchangeOutCO	Collection Object Exchange Out	Объект коллекции Внешний обмен
-		
-####################		
-# Express Search Description		
-####################		
+
+####################
+# Express Search Description
+####################
 CollObjToDeterminer_desc	Collection Objects with Determiner and Taxon for current Determinations	Объект коллекции с Автором идентификации и Таксон для текущей идентификации
 CollObToLocality_desc	Collecting Events with Localities	Событие сбора с местонахождениями
 CollObject_desc	Collection Objects with determined Taxa	Объект коллекции с идентифицированными Таксонами
@@ -106,7 +106,7 @@ GeoToTaxon_desc	Geography records where taxa were collected	Географиче
 ColObjCollectors_desc	Collection Object with Collectors	Объект коллекции с Коллекторами
 AcceptedTaxon_desc	Old Taxa with their preferred names.	Ранние таксоны с их принятыми названиями
 SynonymCollObjs_desc	Collection objects with determined Taxon names and preferred Taxon names	Объект коллекции с идентифицированными Таксонами и принятыми названиями
-#AcceptedNameCollObjs_desc=Collection objects that are determined to be the accepted taxon name of the taxon names matching the search string		
+#AcceptedNameCollObjs_desc=Collection objects that are determined to be the accepted taxon name of the taxon names matching the search string
 OtherSynsCollObjs_desc	Collection objects with determined Taxon and its synonyms	Объект коллекции с идентифицированными таксонами и их синонимами
 CurrCollObject_desc	Collection objects with Taxon for current Determinations	Объект коллекции с Таксоном для текущих идентификаций
 AgentFromAgentVariant_desc	Agents and Variants	Агенты и Варианты
@@ -158,4 +158,3 @@ ContainerToKids_desc	The Container's Collection Object children	Дочерние
 ContainerToContainerKids_desc	The Container's container children	Дочерние элементы Контейнера контейнера
 ExchangeInCO_desc	Collection Objects contained in Exchange In	Объекты коллекции входящие во Внутренний обмен
 ExchangeOutCO_desc	Collection Objects contained in Exchange Out	Объекты коллекции входящие во Внешний обмен
-		

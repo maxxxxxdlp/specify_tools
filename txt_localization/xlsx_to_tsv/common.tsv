@@ -1,9 +1,9 @@
 Field Name	en	ru
-		
-		
+
+
 ISONLOAN	Is on loan	В заеме
-		
-# Containers		
+
+# Containers
 SUBCONTAINERS	Subcontainers of this Container	Подконтейнеры этого контейнера
 COLOBJ_IN_CONTR	Collection Objects in this Container	Объекты коллекции в этом контейнере
 CONTNR_COLOBJ	(This container's Collection Object)	(Объект коллекции этого контейнера)

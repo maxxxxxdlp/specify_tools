@@ -1,32 +1,32 @@
 Field Name	en	ru
-##################################################################		
-# Global Views Localization		
-#		
-# These for fields that are not in the schema or		
-# need to be overridden		
-##################################################################		
-		
-##############################		
-# Tree Forms		
-##############################		
-# used by more than one form		
+##################################################################
+# Global Views Localization
+#
+# These for fields that are not in the schema or
+# need to be overridden
+##################################################################
+
+##############################
+# Tree Forms
+##############################
+# used by more than one form
 ACCEPTEDPARENT	Preferred Name	Принятое название
-		
-# Taxon Form		
+
+# Taxon Form
 PARENT	Parent	Родительский таксон
 HYBRIDPARENT1	Hybrid Taxon 1	Гибридный Таксон 1
 HYBRIDPARENT2	Hybrid Taxon 2	Гибридный Таксон 2
 COMMONNAMES	Common Names	Народное название
 ATTACHMENTS	Attachments	Приложения
-		
-# Separators in each form		
+
+# Separators in each form
 TAXON	Taxonomy	Таксономия
 LITHOSTRAT	LithoStrat	Литостратиграфия
 GEOGRAPHY	Geography	География
 GEOLOGICTIMEPERIOD	ChronoStrat	Хроностратиграфия
 STORAGE	Storage	Место хранения
-		
-# Object Attachment Form		
+
+# Object Attachment Form
 FILENAME	File Name	Имя файла
 TITLE	Title	Заглавие
 DATE_IMAGED	Date Imaged	Дата изображения
@@ -38,8 +38,8 @@ LICENSE	License	Лицензия
 CREDIT	Credit	Кредит
 MIME_TYPE	Mime Type	Mime Тип
 REMARKS	Remarks	Примечания
-		
-#Attachment Image Attribute Form		
+
+#Attachment Image Attribute Form
 HEIGHT	Height	Высота
 WIDTH	Width	Ширина
 RESOLUTION	Resolution	Разрешение
@@ -48,10 +48,8 @@ CREATIVE_COMMONS	Creative Commons	Creative Commons
 MBIMAGEID	Morphbank Image ID	ID Изображения в Morphbank
 TIMESTAMP_LAST_SEND	Sent to Morphbank	Отправлено в Morphbank
 TIMESTAMP_LAST_UPDATECHECK	Updated from Morphbank	Обновлено от Morphbank
-		
-# Report Properties Form		
+
+# Report Properties Form
 TITLE	Title	Заголовок
 SUBTITLE	SubTitle	Подзаголовок
 FOOTER	Footer	Нижний колонтитул
-		
-		
